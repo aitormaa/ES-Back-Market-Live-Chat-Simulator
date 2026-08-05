@@ -2,7 +2,7 @@
 
 Una herramienta de formación interactiva basada en el navegador, diseñada para los agentes del servicio de atención al cliente de Back Market. Dos usuarios se conectan en tiempo real: uno interpreta al **Agente** y el otro al **Cliente**, para practicar la gestión del chat en directo a través de escenarios de soporte realistas.
 
-> **Demo en línea:** [https://aitormaa.github.io/Back-Market-Live-Chat-Simulator/](https://aitormaa.github.io/Back-Market-Live-Chat-Simulator/)
+> **Demo en línea:** [https://aitormaa.github.io/ES-Back-Market-Live-Chat-Simulator/](https://aitormaa.github.io/ES-Back-Market-Live-Chat-Simulator/)
 
 ---
 
@@ -62,7 +62,7 @@ Cada escenario incluye:
 
 ### Opción 1 – Usar la versión en línea
 
-Sin instalación. Abrir [https://aitormaa.github.io/Back-Market-Live-Chat-Simulator/](https://aitormaa.github.io/Back-Market-Live-Chat-Simulator/) en dos ventanas del navegador o en dos dispositivos.
+Sin instalación. Abrir [https://aitormaa.github.io/ES-Back-Market-Live-Chat-Simulator/](https://aitormaa.github.io/ES-Back-Market-Live-Chat-Simulator/) en dos ventanas del navegador o en dos dispositivos.
 
 ### Opción 2 – Ejecutar en local
 
